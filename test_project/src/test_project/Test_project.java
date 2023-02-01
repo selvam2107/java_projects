@@ -16,7 +16,7 @@ public class Test_project {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hello_world");
+        System.out.println("new branch");
     }
     
 }
